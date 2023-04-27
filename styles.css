@@ -32,6 +32,7 @@ h2 {
 }
 
 .threevert {
+  height: 33.3%;
 }
 
 .threehoriz {
@@ -58,7 +59,12 @@ h2 {
 /* Colors */
 
 /* QUESTION 1 */
-
+#white{
+  background-color: white;
+}
+.red{
+  background-color: red;
+}
 .orange {
   background-color: orange;
 }
@@ -75,7 +81,7 @@ h2 {
   background-color: blue;
 }
 
-.lightblue {
+.light-blue {
   background-color: lightblue;
 }
 
@@ -135,12 +141,18 @@ h2 {
   max-height:300px;
   max-width:167px;
   align-self: center;
+
 }
 
 .mexico-red {
   background-color: #ce1126;
 }
-
+.label{
+  color: purple;
+}
+.label:hover{
+  color: red;
+}
 /* QUESTION 6 */
 .margin-container {
   height: 300px;
@@ -150,6 +162,7 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
 
 /* For margin practice */
 .flag1 {
