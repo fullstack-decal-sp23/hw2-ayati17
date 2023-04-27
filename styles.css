@@ -94,15 +94,18 @@ h2 {
 /* BEGIN QUESTION 2 */
 
 .thailand-red {
-  /* TODO */
+  height: 17.5%;
+  background-color: #B5002D;
 }
 
 .thailand-white {
-  /* TODO */
+  height: 17.5%;
+  background-color: white;
 }
 
 .thailand-blue {
-  /* TODO */
+  height:30%;
+  background-color: #2E2A4C;
 }
 
 /* END QUESTION 2 */
@@ -129,7 +132,9 @@ h2 {
 }
 
 .mexico-img {
-  /* TODO */
+  max-height:300px;
+  max-width:167px;
+  align-self: center;
 }
 
 .mexico-red {
